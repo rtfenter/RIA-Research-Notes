@@ -77,8 +77,7 @@ This repository is intentionally scoped:
 - It does **not** expose private loops, internal logic, or architecture diagrams.  
 - It reflects my independent conceptual research and system design work.  
 
-This repo is the **outer layer** of RIA —  
-the thinking, not the engine.
+This repo is the **outer layer** of RIA — the thinking, not the engine.
 
 ---
 
