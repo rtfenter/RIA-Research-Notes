@@ -64,15 +64,7 @@ Each project is intentionally minimal — designed to demonstrate concepts like:
 - event-based reasoning  
 - system coherence under uncertainty  
 
-### • Prototype 1: *[name TBD]*  
-*A tiny demonstration of how a system tracks signal drift or recursive state.*
-
-Repo: _(coming soon)_
-
-### • Prototype 2: *[name TBD]*  
-*A lightweight model for branch → test → merge decision patterns.*
-
-Repo: _(coming soon)_
+### • Prototype 1: coming soon
 
 ---
 
