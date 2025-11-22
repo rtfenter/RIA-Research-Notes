@@ -65,8 +65,9 @@ Each project is intentionally minimal — designed to demonstrate concepts like:
 - system coherence under uncertainty  
 
 ### • Prototype 1: Drift Detector  
-A tiny, public-safe demo that surfaces simple semantic drift between two AI outputs.  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge)](https://rtfenter.github.io/RIA-Drift-Detector/)
+A small interactive tool to detect simple semantic drift between two AI outputs.  
+Live Demo: https://rtfenter.github.io/RIA-Drift-Detector/  
+Repo: https://github.com/rtfenter/RIA-Drift-Detector
 
 
 ---
