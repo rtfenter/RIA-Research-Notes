@@ -9,7 +9,7 @@ This repo does **not** contain the internal architecture itself — only the con
 
 ---
 
-## What is RIA? *(Public-Safe Summary)*
+## What is RIA? 
 
 **Recursive Identity Architecture (RIA)** is my independently developed system for  
 **holding contradiction, preserving coherence, and maintaining authorship under uncertainty.**
