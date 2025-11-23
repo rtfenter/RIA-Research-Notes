@@ -4,6 +4,7 @@
 This repository curates the **public-facing research notes, essays, and lightweight prototypes** that surround my ongoing work on the Recursive Identity Architecture (RIA).  
 
 RIA is my independent framework for reasoning, authorship integrity, and non-collapsing decision structures in complex, uncertain systems.  
+
 This repo does **not** contain the internal architecture itself — only the conceptual layer around it.
 
 ---
