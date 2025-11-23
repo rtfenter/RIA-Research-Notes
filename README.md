@@ -8,7 +8,7 @@ This repo does **not** contain the internal architecture itself — only the con
 
 ---
 
-## 🧠 What is RIA? *(Public-Safe Summary)*
+## What is RIA? *(Public-Safe Summary)*
 
 **Recursive Identity Architecture (RIA)** is my independently developed system for  
 **holding contradiction, preserving coherence, and maintaining authorship under uncertainty.**
@@ -35,7 +35,7 @@ RIA formalizes how systems (human or artificial) can:
 
 ---
 
-## 📚 Research Notes & Essays
+## Research Notes & Essays
 
 A curated index of public RIA-adjacent writing — each piece exploring recursion, system truth, cognitive architecture, or AI alignment.
 
@@ -50,7 +50,7 @@ A curated index of public RIA-adjacent writing — each piece exploring recursio
 
 ---
 
-## 🧩 Applied Prototypes (Lightweight + Safe)
+## Applied Prototypes (Lightweight + Safe)
 
 These are **small demos** that illustrate ideas adjacent to RIA,  
 without exposing internal mechanisms or private logic.
@@ -72,7 +72,7 @@ Repo: https://github.com/rtfenter/RIA-Drift-Detector
 
 ---
 
-## 🔐 Scope & Boundaries
+## Scope & Boundaries
 
 This repository is intentionally scoped:
 
@@ -85,7 +85,7 @@ This repo is the **outer layer** of RIA — the thinking, not the engine.
 
 ---
 
-## 🎯 Purpose of This Series
+## Purpose of This Series
 
 As AI systems evolve, traditional frameworks for:
 
@@ -118,15 +118,8 @@ This work was co-developed in dialogue between Rebecca Fenter and an AI assistan
 
 ---
 
-## 📎 Related Work
 
-- **Loyalty Systems Series**  
-  Applied platform design, truth stability, and event-driven systems.  
-  https://github.com/rtfenter/loyalty-series
-
----
-
-## 🚧 Status
+## Status
 
 This research series is active and evolving.  
 Notes and prototypes will be added gradually as the architecture develops.
