@@ -112,6 +112,12 @@ This series gathers the public side of that work.
 
 ---
 
+Authorship & Provenance © 2025 Rebecca Fenter. This essay originates from Recursive Identity Architecture (RIA), an independent research framework under continuous development. Redistribution or derivative use without permission is not authorized. Citation and discussion are welcome.
+
+This work was co-developed in dialogue between Rebecca Fenter and an AI assistant. I provided the patterns, questions, and architecture over time. The assistant generated drafts and reframes. I selected, arranged, and take responsibility for the final text and artifacts.
+
+---
+
 ## 📎 Related Work
 
 - **Loyalty Systems Series**  
